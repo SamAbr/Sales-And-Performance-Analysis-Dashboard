@@ -55,8 +55,7 @@ This project leverages Power BI to deliver a series of dashboards analyzing mult
 - Cities should adopt the customer engagement strategies of Naypyitaw, given its high ratings and total sales.
 
 ## Files Included
-- `Performance_Analysis_Dashboard.pbix`: Power BI file containing all visualizations and dashboards for branch, product, customer behavior, time, and city analysis.
-- `Data_Sources.xlsx`: The Excel file with raw data used in the analysis (optional).
+- `Performance_Analysis_Dashboard.pbix`: Power BI file containing all visualizations and dashboards for branch, product, customer behavior, time, and city analysis. It also includes the imported excel file which contains the data used for analysis.
 
 ## How to Use
 1. Download the `.pbix` file and open it in Power BI Desktop.
