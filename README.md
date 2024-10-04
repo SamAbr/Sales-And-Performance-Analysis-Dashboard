@@ -62,7 +62,7 @@ This project leverages Power BI to deliver a series of dashboards analyzing mult
 2. Navigate through the different pages in the dashboard to explore branch performance, product analysis, and customer behavior.
 3. Use filters and slicers to interact with the data and gain deeper insights into specific metrics.
 
-## Visualizations
+## Contents
 - **Page 1: Data Exploration**
 - **Page 2: Branch Performance Analysis**
 - **Page 3: Product Line Analysis**
